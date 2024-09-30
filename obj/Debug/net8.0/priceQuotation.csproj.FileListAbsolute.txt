@@ -58,3 +58,4 @@ c:\Users\yathe\Downloads\Fall25\CMSC 5423\priceQuotation-main\priceQuotation-mai
 c:\Users\yathe\Downloads\Fall25\CMSC 5423\priceQuotation-main\priceQuotation-main\obj\Debug\net8.0\priceQuotation.pdb
 c:\Users\yathe\Downloads\Fall25\CMSC 5423\priceQuotation-main\priceQuotation-main\obj\Debug\net8.0\priceQuotation.genruntimeconfig.cache
 c:\Users\yathe\Downloads\Fall25\CMSC 5423\priceQuotation-main\priceQuotation-main\obj\Debug\net8.0\ref\priceQuotation.dll
+c:\Users\yathe\Downloads\Fall25\CMSC 5423\priceQuotation-main\priceQuotation-main\obj\Debug\net8.0\priceQuotation.sourcelink.json
